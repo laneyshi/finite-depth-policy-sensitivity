@@ -7,8 +7,7 @@ submitted to ACC 2027.
 This release includes simulation, policy training, Bellman derivative kernels,
 estimator comparisons, tests, and plotting code. Datasets, pretrained weights,
 and generated figures are not included. The commands below generate local
-weights and results from scratch. The large-instance adaptation experiment is
-outside the scope of this release.
+weights and results from scratch.
 
 ## Experimental settings
 
